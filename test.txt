@@ -1,1 +1,2 @@
 ||*-daum.net^
+||daum.net^
